@@ -1,0 +1,4 @@
+[
+    ["NAME", 102, "Bit", true, "Какой-то русский текст", "First Record"],
+    ["Some name", 205, "32-bit float", false, "YA", "Какой-то русский текст"]
+]
